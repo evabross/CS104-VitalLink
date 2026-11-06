@@ -4,7 +4,7 @@
     "dob": "2890-09-22",
     "mrn": "123456"
   },
-  "allergies": "None",
+  "allergies": "None - test",
   "medications": "Herbal tea as needed for relaxation",
   "reason_for_visit": "Routine check-up before next adventure",
   "vitals": {
